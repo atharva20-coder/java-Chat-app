@@ -1,6 +1,6 @@
 # java-Chat-app
 
-<img src="https://github.com/atharva20-coder/phoneDirectory/blob/master/Phone%20Directory.png" width="800">
+<img src="https://raw.githubusercontent.com/atharva20-coder/java-Chat-app/master/chat%20app.png" width="800">
 
 fully java and MySql program
 
